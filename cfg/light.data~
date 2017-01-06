@@ -1,0 +1,5 @@
+classes= 2
+train  = /home/toec/software/darknet/data/new/train.txt
+valid  = /home/toec/software/darknet/data/new/val.txt
+names = data/new/label.names
+backup = backup

@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/toec/data/voc/train.txt
+valid  = /home/toec/data/voc/2007_test.txt
+names = data/voc.names
+backup = /home/pjreddie/backup/
+
